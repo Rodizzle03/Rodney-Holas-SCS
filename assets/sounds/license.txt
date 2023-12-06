@@ -1,0 +1,4 @@
+chomp.wav: TheDragonsSpark, November 7th, 2020, CC by 4.0, https://creativecommons.org/licenses/by/4.0/
+hurt.wav: cabled_mess July 27th, 2016, CC by 0.0, https://creativecommons.org/publicdomain/zero/1.0/
+bubbles.wav: MATRIXXX_, November 7th, 2022, CC by 0.0, https://creativecommons.org/publicdomain/zero/1.0/
+```
